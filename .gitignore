@@ -1,10 +1,12 @@
 *.tar.xz
 *.tar.gz
 build/
+build_tools/
 cmake-build-debug/
 opt/
 src/binutils
 src/gcc
+.idea/
 *.o
 *.bin
 *.iso
